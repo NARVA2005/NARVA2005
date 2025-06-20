@@ -13,7 +13,7 @@
 
 - 💼 I have developed **projects in PHP with Laravel for internal processes and commercial websites**
 
-- 🏢 I've worked for **Ladrillera y Arcillas San José, GresNova** and different companies in the **Colombian industrial sector**
+- 🏢 I've worked for **Ladrillera y Arcillas San José, GresNova, ConstruInversiones MG** and different companies in the **Colombian industrial sector**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NARVA2005](https://github.com/NARVA2005)
 
@@ -31,6 +31,7 @@
 - Custom web applications for ceramic and brick manufacturing companies
 - Internal process automation systems for **Ladrillera y Arcillas San José**
 - Specialized management systems for **GresNova**
+- Specialized management systems for **ConstruInversiones MG**
 - Commercial websites with integrated business logic for Colombian enterprises
 
 **🛠️ Technical Achievements:**
