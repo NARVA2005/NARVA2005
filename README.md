@@ -1,86 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jhon Alexander Narvaez Lopez</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist | Laravel Expert from Colombia</h3>
+<div align="center">
+Hi 👋, I'm Jhon Alexander Narváez López
+Full Stack Developer · Backend & Laravel Specialist · Building at Brinova Software 🇨🇴
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%40+Brinova+Software;Laravel+%26+PHP+Backend+Specialist;REST+APIs+%7C+Scalable+Architecture;Digital+Transformation+for+Industry" alt="Typing SVG" /> <p> <a href="https://linkedin.com/in/jhon-alexander-narvaez-lópez-09437520b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:alexnarvaez981@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/NARVA2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <img src="https://komarev.com/ghpvc/?username=NARVA2005&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views"/> </p> </div>
+🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Laravel+Expert;API+REST+Specialist;Database+Architect" alt="Typing SVG" />
-</p>
+I build robust, scalable software that solves real business problems. As part of Brinova Software, I design and develop web platforms, APIs and internal systems that help companies digitize their operations, automate processes and make better decisions with their data.
 
-- 🔭 I'm currently working on **advanced web applications and enterprise solutions**
+My background is in the Colombian industrial sector — manufacturing, ceramics and construction — where reliability and performance aren't optional.
 
-- 🌱 I'm currently learning **advanced software architecture patterns in corporate environments**
+🏢 Currently building software solutions at Brinova Software
+🔭 Working on enterprise web applications, ERPs/internal tools and API integrations
+🌱 Growing in software architecture, clean code, cloud deployment and AI-powered features
+🤝 Open to collaborations, freelance projects and companies looking to digitize their processes
+💬 Ask me about Laravel, PHP, REST APIs, MySQL, Vue/React and industrial software
+⚡ Fun fact: I turn complex factory workflows into simple, clean web apps
 
-- 🤝 I'm looking for help with **expanding expertise in scalable application development**
+🇪🇸 En español: Desarrollador Full Stack colombiano especializado en backend con Laravel. En Brinova Software construyo soluciones a la medida para empresas que quieren digitalizar y automatizar sus procesos. ¡Hablemos!
 
-- 💼 I have developed **projects in PHP with Laravel for internal processes and commercial websites**
+💼 Experience & Impact
 
-- 🏢 I've worked for **Ladrillera y Arcillas San José, GresNova, ConstruInversiones MG** and different companies in the **Colombian industrial sector**
+🏢 Brinova Software — Software Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/NARVA2005](https://github.com/NARVA2005)
+Custom web platforms and business software for companies in Colombia
+API design, system integrations and scalable backend architecture
+End-to-end delivery: requirements → development → deployment → support
 
-- 💬 Ask me about **Laravel, MySQL, API REST, PHP, Industrial Web Solutions**
+🏭 Industrial Sector Solutions
 
-- 📫 How to reach me **alexnarvaez981@gmail.com**
+Ladrillera y Arcillas San José — internal process automation and management systems
+GresNova — specialized management systems for ceramic manufacturing
+ConstruInversiones MG — business management solutions for construction
+Commercial websites with integrated business logic for Colombian companies
 
-- ⚡ Fun fact **I specialize in creating robust backend solutions for manufacturing companies**
+🛠️ Technical Highlights
 
----
+Laravel applications handling complex, high-volume industrial workflows
+RESTful APIs enabling seamless integration between systems
+Database design and query optimization for production environments
+Responsive dashboards and reporting tools for operational decision-making
+🧰 Tech Stack
+<div align="center">
 
-<h3 align="left">💼 Professional Experience:</h3>
+Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs" />
 
-**🏭 Industrial Sector Solutions:**
-- Custom web applications for ceramic and brick manufacturing companies
-- Internal process automation systems for **Ladrillera y Arcillas San José**
-- Specialized management systems for **GresNova**
-- Specialized management systems for **ConstruInversiones MG**
-- Commercial websites with integrated business logic for Colombian enterprises
+Frontend
+<img src="https://skillicons.dev/icons?i=js,react,vue,html,css,bootstrap,tailwind" />
 
-**🛠️ Technical Achievements:**
-- Laravel applications handling complex industrial processes
-- RESTful APIs for seamless system integration
-- Database optimization for high-volume manufacturing operations
-- Responsive interfaces for industrial management systems
+Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,docker" />
 
----
+</div>
+📊 GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=NARVA2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARVA2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <img src="https://streak-stats.demolab.com/?user=NARVA2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center">
+🌟 "Building efficient, scalable software that drives the digital transformation of Colombian companies" 🌟
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhon-alexander-narvaez-lópez-09437520b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-alexander-narvaez-lópez-09437520b" height="30" width="40" /></a>
-</p>
+Have a project in mind? Let's build it together → alexnarvaez981@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narva2005&theme=default" alt="narva2005" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narva2005&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="center">🌟 "Creating efficient, scalable solutions for Colombian industrial companies" 🌟</h3>
-
+</div>
